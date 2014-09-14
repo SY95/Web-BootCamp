@@ -20,7 +20,7 @@ and open the template in the editor.
     top:0px;
     left:0px;
 }
-button{
+#searchBtn{
     display:inline;
     height:25px;
     position:relative;
@@ -57,5 +57,4 @@ img{
     height:100px;
     width:100px;
 }
-
 
