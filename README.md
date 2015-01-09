@@ -1,4 +1,4 @@
 Web-BootCamp
 ============
 
-BootCamp Assignment for uoftdev recruitment
+BootCamp Assignment for uoftdev
